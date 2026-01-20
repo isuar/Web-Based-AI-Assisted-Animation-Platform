@@ -317,7 +317,7 @@ OpenAI API Settings:
 ### Platform Interface Overview
 
 #### 1. **How to Use / About Section**
-![How to Use](./screenshots/how-to-use.png)
+![How to Use](./screenshots/how-to-use1.png)
 *Introductory guide explaining the platform's purpose and basic workflow*
 
 This section provides users with:
