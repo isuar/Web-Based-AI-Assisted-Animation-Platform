@@ -317,7 +317,7 @@ OpenAI API Settings:
 ### Platform Interface Overview
 
 #### 1. **How to Use / About Section**
-![How to Use](./screenshots/how-to-use1.png)
+![How to Use](./screenshots/how-to-use.png)
 *Introductory guide explaining the platform's purpose and basic workflow*
 
 This section provides users with:
@@ -327,7 +327,7 @@ This section provides users with:
 - Navigation guide
 
 #### 2. **Tips for Best Results Panel**
-![Tips Panel](./screenshots/tips-panel.png)
+![Tips Panel](./screenshots/tips-panel1.png)
 *Best practices and recommendations for optimal SVG generation*
 
 Key guidance includes:
@@ -337,7 +337,7 @@ Key guidance includes:
 - Common pitfalls to avoid
 
 #### 3. **Template Gallery Section**
-![Template Gallery](./screenshots/template-gallery.png)
+![Template Gallery](./screenshots/template-gallery1.png)
 *Curated story templates organized by category for quick start*
 
 Features displayed:
@@ -347,7 +347,7 @@ Features displayed:
 - One-click template selection
 
 #### 4. **Story Creation Section**
-![Story Creation](./screenshots/story-creation.png)
+![Story Creation](./screenshots/story-creation1.png)
 *Main interface for creating new animated stories*
 
 This interface demonstrates:
@@ -358,11 +358,11 @@ This interface demonstrates:
 - Clean, minimal design requiring zero technical knowledge
 
 #### 5. **Edit Story and Scene Section**
-![Edit Interface](./screenshots/edit-story-scene.png)
+![Edit Interface](./screenshots/edit-story-scene1.png)
 *Comprehensive editing interface for managing stories and individual scenes*
 
 #### 6. **Result Section**
-![Result](./screenshots/result.png)
+![Result](./screenshots/result-leonardo.png)
 *Screenshot of the result*
 
 Key capabilities shown:
@@ -373,22 +373,6 @@ Key capabilities shown:
 - **Export options**: Download in multiple formats (SVG, PNG, HTML)
 
 ---
-
-### 📁 Recommended Screenshot Organization
-
-For GitHub repository structure, organize your screenshots as follows:
-
-```
-your-github-repo/
-├── README.md (or PROJECT_REVIEW.md)
-├── THESIS_ABSTRACT.md (brief academic summary)
-└── screenshots/
-    ├── how-to-use.png
-    ├── tips-panel.png
-    ├── template-gallery.png
-    ├── story-creation.png
-    └── edit-story-scene.png
-```
 
 ### 💡 About This Documentation
 
@@ -776,13 +760,9 @@ def create_prompt(text, scene_title, prompt_type):
 
 **Supervisor**: Professor 王佳盈 for guidance and support
 
-**Technology Partners**:
-- OpenAI for GPT-4.1 API access
-- Vue.js and Flask communities for open-source frameworks
-
 **Special Thanks**:
-- Test participants who provided valuable feedback
 - Academic colleagues for research insights
+- Test participants who provided valuable feedback
 
 ---
 
@@ -871,8 +851,8 @@ svg_output = generate_svg(
 ## 📝 License & Usage
 
 **Academic Project**: Developed as part of graduate research  
-**Institution**: [University Name]  
-**Department**: [Department Name]  
+**Institution**: Chung Yuan Christian University
+**Department**: Electrical Engineering and Computer Science  
 **Year**: 2024-2025
 
 *This project demonstrates the successful integration of AI technology with web-based creative tools to democratize professional animation creation.*
