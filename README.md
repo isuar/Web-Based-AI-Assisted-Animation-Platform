@@ -14,7 +14,7 @@
 
 **Author:** Irfani Suar (蘇苡凡)  
 **Supervisor:** Professor 王佳盈  
-**Institution:** [Your University]
+**Institution:** Chung Yuan Christian University
 
 ---
 
@@ -47,13 +47,13 @@ The platform uses intelligent prompt engineering to generate animations that inc
 ## 🖼️ Screenshots
 
 ### Template Gallery
-![Template Gallery](./screenshots/template-gallery1.png)
+<img src="./screenshots/template-gallery1.png" alt="Template Gallery" width="400"/>
 
 ### Story Creation
-![Story Creation](./screenshots/story-creation1.png)
+<img src="./screenshots/story-creation1.png" alt="Story Creation" width="400"/>
 
 ### Edit & Manage
-![Edit Interface](./screenshots/edit-story-scene1.png)
+<img src="./screenshots/edit-story-scene1.png" alt="Edit Story Scene" width="400"/>
 
 *See more in the [screenshots](./screenshots) folder*
 
@@ -62,7 +62,7 @@ The platform uses intelligent prompt engineering to generate animations that inc
 ## 🎬 Generated Results Screenshots
 
 ### Darwin's Voyage - Historical Narrative
-![Darwin Story](./screenshots/result-darwin.png)
+<img src="./screenshots/result-darwin.png" alt="Result Darwin" width="400"/>
 
 **Input:** "The Voyage of Darwin"
 
@@ -76,7 +76,7 @@ The platform uses intelligent prompt engineering to generate animations that inc
 ---
 
 ### Leonardo da Vinci - Early Life Scene
-![Leonardo Scene](./screenshots/result-leonardo.png)
+<img src="./screenshots/result-leonardo.png" alt="Result Leonardo" width="400"/>
 
 **Input:** "Young Leonardo da Vinci early life"
 

@@ -318,6 +318,7 @@ OpenAI API Settings:
 
 #### 1. **How to Use / About Section**
 ![How to Use](./screenshots/how-to-use.png)
+<img src="./screenshots/how-to-use.png" alt="How To Use" width="400"/>
 *Introductory guide explaining the platform's purpose and basic workflow*
 
 This section provides users with:
@@ -328,6 +329,7 @@ This section provides users with:
 
 #### 2. **Tips for Best Results Panel**
 ![Tips Panel](./screenshots/tips-panel1.png)
+<img src="./screenshots/tips-panel1.png" alt="Tips Panel" width="400"/>
 *Best practices and recommendations for optimal SVG generation*
 
 Key guidance includes:
@@ -337,7 +339,7 @@ Key guidance includes:
 - Common pitfalls to avoid
 
 #### 3. **Template Gallery Section**
-![Template Gallery](./screenshots/template-gallery1.png)
+<img src="./screenshots/template-gallery1.png" alt="Template Gallery" width="400"/>
 *Curated story templates organized by category for quick start*
 
 Features displayed:
@@ -347,7 +349,7 @@ Features displayed:
 - One-click template selection
 
 #### 4. **Story Creation Section**
-![Story Creation](./screenshots/story-creation1.png)
+<img src="./screenshots/story-creation1.png" alt="Story Creation" width="400"/>
 *Main interface for creating new animated stories*
 
 This interface demonstrates:
@@ -358,11 +360,11 @@ This interface demonstrates:
 - Clean, minimal design requiring zero technical knowledge
 
 #### 5. **Edit Story and Scene Section**
-![Edit Interface](./screenshots/edit-story-scene1.png)
+<img src="./screenshots/edit-story-scene1.png" alt="Edit Story Scene" width="400"/>
 *Comprehensive editing interface for managing stories and individual scenes*
 
 #### 6. **Result Section**
-![Result](./screenshots/result-leonardo.png)
+<img src="./screenshots/result-leonardo.png" alt="Result Leonardo" width="400"/>
 *Screenshot of the result*
 
 Key capabilities shown:
