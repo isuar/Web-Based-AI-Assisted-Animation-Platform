@@ -47,13 +47,16 @@ The platform uses intelligent prompt engineering to generate animations that inc
 ## 🖼️ Screenshots
 
 ### Template Gallery
-<img src="./screenshots/template-gallery1.png" alt="Template Gallery" width="400"/>
+<p align="center">
+<img src="./screenshots/template-gallery1.png" alt="Template Gallery" width="500"/> </p>
 
 ### Story Creation
-<img src="./screenshots/story-creation1.png" alt="Story Creation" width="400"/>
+<p align="center">
+<img src="./screenshots/story-creation1.png" alt="Story Creation" width="500"/> </p>
 
 ### Edit & Manage
-<img src="./screenshots/edit-story-scene1.png" alt="Edit Story Scene" width="400"/>
+<p align="center">
+<img src="./screenshots/edit-story-scene1.png" alt="Edit Story Scene" width="500"/> </p>
 
 *See more in the [screenshots](./screenshots) folder*
 
@@ -62,7 +65,8 @@ The platform uses intelligent prompt engineering to generate animations that inc
 ## 🎬 Generated Results Screenshots
 
 ### Darwin's Voyage - Historical Narrative
-<img src="./screenshots/result-darwin.png" alt="Result Darwin" width="400"/>
+<p align="center">
+<img src="./screenshots/result-darwin.png" alt="Result Darwin" width="500"/> </p>
 
 **Input:** "The Voyage of Darwin"
 
@@ -76,7 +80,8 @@ The platform uses intelligent prompt engineering to generate animations that inc
 ---
 
 ### Leonardo da Vinci - Early Life Scene
-<img src="./screenshots/result-leonardo.png" alt="Result Leonardo" width="400"/>
+<p align="center">
+<img src="./screenshots/result-leonardo.png" alt="Result Leonardo" width="500"/> </p>
 
 **Input:** "Young Leonardo da Vinci early life"
 
